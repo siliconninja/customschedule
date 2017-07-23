@@ -146,16 +146,11 @@ tell application "Calendar"
 [/3]
 
 ==============
-## Want to Contribute?
+## TODO (updates to this project)
 
-Please request access for editing this repo if you want to make contributions. I cannot take most requests, as they may be spam unless I know that GitHub user.
-Download the source code and make the commits as necessary on GitHub in the master branch (if you'd like).
-
-If you're bored, why not try these todos?
-- [x] School events i.e. snow days, pep rallies, etc. (may seem hard to implement because of the weird times)
+- [x] School events e.g. snow days, pep rallies, etc. (may seem hard to implement because of the weird times)
 	- [x] Free periods (may seem hard to implement because of the weird times)
-- [ ] Quarterly classes (i.e. Gym, Health)
-
+- [ ] Quarterly classes (e.g. Gym, Health)
 
 ==============
 ## This goes great with...
