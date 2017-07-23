@@ -13,8 +13,7 @@ MIT license (see [LICENSE](LICENSE) for details.)
 ==============
 ## How to use:
 
-This only works if your school has a calendar (that you can subscribe to via iCal or Google Calendars)
-and it has the days (4, 3, 2, 1...) and you have a Mac. If you don't have a Mac, try one of the following.
+This only works if your school has a calendar (that you can subscribe to via iCal or Google Calendars which you can download as an iCal file) and it has the days (4, 3, 2, 1...) and you have a Mac. If you don't have a Mac, try one of the following.
 
 - Run this via a VM (virtual machine) or Hackintosh
 - Get someone else's Mac (with their permission) and change the class names.
