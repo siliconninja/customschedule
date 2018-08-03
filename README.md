@@ -19,7 +19,7 @@ This only works if your school has a calendar (that you can subscribe to via iCa
 - Get someone else's Mac (with their permission) and change the class names.
 
 ### Notes:
-- 11 is for a free period, it will be called "Free Period" and will only run when you set 11 in Day[x]O array and it is a normal, scheduled free.
+- 11 is for a free period, it will be called "Free Period" and will only run when you set 11 in Day[x]O (O stands for "order", meaning order of periods) array and it is a normal, scheduled free.
 
 - 10 is for lunch.
 
